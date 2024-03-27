@@ -1,0 +1,16 @@
+header { background-color: lightblue; text-align: center; color:aliceblue;}
+.put { list-style: none; display: inline; padding-inline: 10px;}
+a:link { text-decoration: none; color: #fff; font-size: 20px; }
+a:visited { text-decoration: none; color: #fff;}
+ul { padding-bottom: 30px;}
+h1 { padding-top: 30px;}
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+table tr td:last-child {
+    width: 120px;
+}
+
+.nav { display: inline; margin-right: 30px; margin-left: 50px; text-align: center;}
